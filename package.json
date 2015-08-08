@@ -1,0 +1,32 @@
+{
+  "name": "RSGate",
+  "version": "1.0.0",
+  "description": "Rest client to invoke http and https request",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iboumedien/RSGate.git"
+  },
+  "keywords": [
+    "node",
+    "https",
+    "http",
+    "rest",
+    "api",
+    "client"
+  ],
+  "author": "iboumedien@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iboumedien/RSGate/issues"
+  },
+  "homepage": "https://github.com/iboumedien/RSGate",
+  "dependencies": {
+    "ejs": "^2.3.3",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0"
+  }
+}

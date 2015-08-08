@@ -1,0 +1,28 @@
+{
+  "name": "RSGate",
+  "version": "0.0.1",
+  "homepage": "https://github.com/iboumedien/RSGate",
+  "authors": [
+    "boumedien <iboumedien@gmail.com>"
+  ],
+  "description": "REST Client for http and https API",
+  "keywords": [
+    "REST",
+    "http",
+    "https"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.3",
+    "angular-route": "~1.4.3",
+    "angular-animate": "~1.4.3"
+  }
+}
